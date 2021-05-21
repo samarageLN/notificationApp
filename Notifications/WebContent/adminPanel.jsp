@@ -44,7 +44,7 @@ if (request.getParameter("hidItemIDDelete") != null) {
 
 <style type="text/css">
 body {
-	margin: 25px;
+	margin: 35px;
 }
 </style>
 </head>
@@ -60,6 +60,11 @@ body {
 						Management</small>
 				</h3>
 
+
+				<div style="text-align: right; width: 100%; padding: 0;">
+					<a class="btn btn-dark" href="mails.jsp" role="button">Mails</a>
+				</div>
+				
 
 				<div class="col-md-6">
 					<div class="form-group">

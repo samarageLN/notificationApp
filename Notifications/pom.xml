@@ -65,5 +65,16 @@
 			<artifactId>jersey-client</artifactId>
 			<version>1.19.4</version>
 		</dependency>
+		
+		
+		<!-- mail service dependency -->
+		<!-- https://mvnrepository.com/artifact/javax.mail/javax.mail-api -->
+		<dependency>
+			<groupId>com.sun.mail</groupId>
+			<artifactId>javax.mail</artifactId>
+			<version>1.6.2</version>
+		</dependency>
+		
+		
 	</dependencies>
 </project>
